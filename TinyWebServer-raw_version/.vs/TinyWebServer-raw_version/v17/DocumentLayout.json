@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\http\\http_conn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:http\\http_conn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\http\\http_conn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:http\\http_conn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\CGImysql\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CGImysql\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-04-27T02:25:09.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "makefile",
+              "DocumentMoniker": "E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\makefile",
+              "RelativeDocumentMoniker": "makefile",
+              "ToolTip": "E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\makefile",
+              "RelativeToolTip": "makefile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-27T02:24:53.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "http_conn.h",
+              "DocumentMoniker": "E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\http\\http_conn.h",
+              "RelativeDocumentMoniker": "http\\http_conn.h",
+              "ToolTip": "E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\http\\http_conn.h",
+              "RelativeToolTip": "http\\http_conn.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-27T02:22:41.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "http_conn.cpp",
+              "DocumentMoniker": "E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\http\\http_conn.cpp",
+              "RelativeDocumentMoniker": "http\\http_conn.cpp",
+              "ToolTip": "E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\http\\http_conn.cpp",
+              "RelativeToolTip": "http\\http_conn.cpp",
+              "ViewState": "AQIAALUCAAAAAAAAAAAAABwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T02:22:39.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\CGImysql\\README.md",
+              "RelativeDocumentMoniker": "CGImysql\\README.md",
+              "ToolTip": "E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\CGImysql\\README.md",
+              "RelativeToolTip": "CGImysql\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-04-27T02:22:22.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "E:\\BaiduNetdiskDownload\\TinyWebServer-raw_version\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-27T02:21:21.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
